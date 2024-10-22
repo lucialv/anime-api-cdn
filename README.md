@@ -20,7 +20,3 @@ The URL above will return a random gif from the action `pats`. You can change th
 | `hug`    | https://cdn-anime.lucia-dev.com/hugs/ |
 
 Thank you for using the API! If you have any suggestions, please let me know.
-
-```
-
-```
