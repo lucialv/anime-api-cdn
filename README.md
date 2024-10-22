@@ -1,4 +1,4 @@
-![Banner](/Banner.png)
+![Banner](/public/Banner.png)
 
 This is a simple project to create a CDN for anime gifs. The idea is to have a simple API to get gifs from a specific action.
 
