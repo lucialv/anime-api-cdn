@@ -1,10 +1,10 @@
 {
   "functions": {
     "api/hugs/main.go": {
-      "runtime": "vercel-go@latest"
+      "runtime": "vercel-go@3.2.1"
     },
     "api/pats/main.go": {
-      "runtime": "vercel-go@latest"
+      "runtime": "vercel-go@3.2.1"
     }
   },
   "routes": [
