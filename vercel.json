@@ -1,12 +1,4 @@
 {
-  "functions": {
-    "api/hugs/main.go": {
-      "runtime": "vercel-go@3.2.1"
-    },
-    "api/pats/main.go": {
-      "runtime": "vercel-go@3.2.1"
-    }
-  },
   "routes": [
     { "src": "/hugs", "dest": "/api/hugs/main.go" },
     { "src": "/pats", "dest": "/api/pats/main.go" }
